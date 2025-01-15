@@ -25,9 +25,9 @@ Hello! I'm Marl Jonson, a San Jose State University student and Bay Area local. 
 </li>
 
 # Skills
-<b>Programming and markdown languages:</b>
+<b>Programming and markup languages:</b>
 <li>Java</li>
-<li>Python</li>
+<li>Python (Pandas, NumPy, Matplotlib, TensorFlow)</li>
 <li>C++</li>
 <li>HTML</li>
 <li>CSS</li>
@@ -41,3 +41,5 @@ Hello! I'm Marl Jonson, a San Jose State University student and Bay Area local. 
 <li>business analyst</li>
 <li>software engineer</li>
 <li>machine learning engineer</li>
+<br>
+Thanks for stopping by!
