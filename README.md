@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🪼 Who am I?
+### 🪼 About Me
 
 I'm Marl Jonson, a computer science major at San Jose State University. I've pursued hands-on projects to enhance my skills in creating user-oriented experiences.
 
-### 🍋 Tech stack
+### 🍋 Tech Stack
 - **Languages:** Java, Python, HTML/CSS
 - **Frameworks/Libraries:** React, Node.js
 - **Tools/Software:** Figma, Tableau, Google Drive * Microsoft Applications
 
-### 🪸 Some projects
+### 🪸 Some Projects
 
 - **Listenade**: Built a magazine from scratch to showcase my pop music opinions, updated periodically.
    - Developed a music magazine website to display text reviews with optimized desktop and mobile scaling
