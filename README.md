@@ -7,7 +7,7 @@ Hi there! My name is Marl. I'm a computer science major who's interested in mana
 
 - **Languages:** Java, Python, HTML/CSS
 - **Frameworks/Libraries:** React, Node.js
-- **Tools/Software:** Figma, Tableau, Google Drive * Microsoft Applications
+- **Tools/Software:** Figma, Tableau, Google Drive, Microsoft Applications
 
 ### 🪸 Some Projects
 
