@@ -1,7 +1,7 @@
 
 ### 🪼 About Me
 
-I'm Marl Jonson, a computer science major who loves building user-centric digital experiences.
+Hi there! My name is Marl. I'm a computer science major who's interested in managing software products for music, gaming, and entertainment. I'm pursuing minors in business and statistics to better understand the communities behind online platforms — from creators looking to license music for their games, to developers optimizing user engagement, to players and users whose behavior can inform smarter recommendation systems and tailored experiences.
 
 ### 🍋 Tech Stack
 
