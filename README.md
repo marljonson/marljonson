@@ -1,17 +1,17 @@
 
 ### 🪼 About Me
 
-Hi there! My name is Marl. I'm a computer science major who's interested in managing software products for music, gaming, and the entertainment industry. I'm pursuing a minor in statistics to better understand the communities behind online platforms — from creators looking to license music for their games, to developers optimizing user engagement, to players and users whose behavior can inform smarter recommendation systems and tailored experiences.
+Hi there! My name is Marl. I'm a computer programmer interested in making and managing software products in entertainment, music, and popular culture. I'm pursuing a minor in statistics to better understand the communities behind online platforms — from creators looking to license music for their games, to developers optimizing user engagement, to players and users whose behavior can inform smarter recommendation systems and tailored experiences.
 
 ### 🍋 Tech Stack
 
-- **Languages:** Java, Python, HTML/CSS
+- **Languages:** Java, Python, C, HTML/CSS
 - **Frameworks/Libraries:** React, Node.js
 - **Tools/Software:** Figma, Tableau, Google Drive, Microsoft Applications
 
 ### 🪸 Projects
 
-- **Listenade:** Built a magazine from scratch to showcase my pop music opinions, updated periodically.
+- **Listenade:** An online magazine to showcase my pop music opinions, updated periodically.
    - Developed a music magazine website to display text reviews with optimized desktop and mobile scaling
    - Created a directory system using GitHub and GitHub Pages, connecting the repository to a personal domain
  
