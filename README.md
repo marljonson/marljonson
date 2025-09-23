@@ -9,7 +9,7 @@ Hi there! My name is Marl. I'm a computer science major who's interested in mana
 - **Frameworks/Libraries:** React, Node.js
 - **Tools/Software:** Figma, Tableau, Google Drive, Microsoft Applications
 
-### 🪸 Some Projects
+### 🪸 Projects
 
 - **Listenade:** Built a magazine from scratch to showcase my pop music opinions, updated periodically.
    - Developed a music magazine website to display text reviews with optimized desktop and mobile scaling
