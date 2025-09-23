@@ -11,11 +11,20 @@ Hi there! My name is Marl. I'm a computer programmer interested in making and ma
 
 ### 🪸 Projects
 
+- **Transiteers:** A playful educational role-playing game about careers in public transit
+   - Designed core game mechanics and led artistic direction, aligning visuals and gameplay with a Product Requirements Document (PRD) to introduce youth to BART transit careers through mini-games and narrative simulations
+   - Managed development using Jira, coordinating synchronous and asynchronous workflows across cross-functional teams to align engineering, art, and design deliverables
+   - Interviewed 10+ transit industry experts to inform game design; implemented A/B testing and continuous user feedback loops to iterate on engagement and learning outcomes
+
+- **IBM: AI Experiential Learning Lab:** IBM Watsonx, open-source tools
+   -  Collaborated in a diverse 5-person team to design and prototype an AI-driven solution to a real-world industry challenge using IBM Watsonx and open-source tools
+   -  Applied design thinking, agile methodologies, and AI development practices, culminating in a presentation evaluated on feasibility, innovation, and usability
+
 - **Listenade:** An online magazine to showcase my pop music opinions, updated periodically.
    - Developed a music magazine website to display text reviews with optimized desktop and mobile scaling
    - Created a directory system using GitHub and GitHub Pages, connecting the repository to a personal domain
  
-- **Blox Star Academy**: A round-based K-pop competition game hosted on Roblox based on the Netflix original documentary series ''Pop Star Academy''.
+- **Blox Star Academy**: A round-based K-pop competition game on Roblox based on Netflix's ''The Debut: Dream Academy''.
    - Utilized Lua and Blender to program and create game models.
    - Designed game UI layout in Roblox Studio and platform artwork using Adobe Photoshop.
 
