@@ -1,7 +1,9 @@
 
 ### About Me
 
-Hi there! My name is Marl. I'm a computer programmer interested in making, managing, and improving digital products in the public sector and the entertainment industry. I'm pursuing computer science, statistics, GIS, cloud computing, and machine learning to understand the communities behind online platforms.
+- **name:** Marl
+- **interests:** digital products, graphic design, music, entertainment, public sector technology
+- **technical interests:** computer science, statistics, cloud computing, machine learning, GIS 
 
 ### Experience
 - product manager intern [@sfbart](https://github.com/sfbart)
@@ -11,11 +13,10 @@ Hi there! My name is Marl. I'm a computer programmer interested in making, manag
 - former crew at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
-- san jose state university (computer science major)
-  - data structures and algorithms
-  - object-oriented programming
-  - programming in c
-  - mapping the world
+- san jose state university
+  - computer science: data structures and algorithms, object-oriented programming, programming in c
+  - math: discrete math, stats and probability 1, linear algebra,  calculus 1–2
+  - other: mapping the world with GIS, community nutrition, environmental nutrition
 - other colleges
   - intro to c++ (diablo valley college)
   - intro to cloud computing (citrus college)
@@ -28,6 +29,6 @@ Hi there! My name is Marl. I'm a computer programmer interested in making, manag
 
 ### Technologies
 
-- languages: Java, Python, C, HTML/CSS
-- frameworks/libraries: React, Node.js
-- web/design: Figma, Canva, Google Workspace, Microsoft 365
+- **languages:** Java, Python, C, HTML/CSS, Bash
+- **frameworks/libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
+- **web/design:** Figma, Canva, Google Workspace, Microsoft 365
