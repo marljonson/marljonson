@@ -27,7 +27,7 @@
 - [performative pop shop](https://github.com/marljonson/pps-cs151-fall-2025)
   - java, uml
 
-### Technologies
+### Stuff I claim to know
 
 - **languages:** Java, Python, C, HTML/CSS, Bash
 - **frameworks/libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
