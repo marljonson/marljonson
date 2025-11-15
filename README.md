@@ -26,6 +26,10 @@
   - python, pandas, matplotlib, seaborn, jupyter notebook
 - [performative pop shop](https://github.com/marljonson/pps-cs151-fall-2025)
   - java, uml
+- [javafx arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
+  - java, javafx
+- [note nooks](https://devpost.com/software/nooknotes)
+  - html/css, figma
 
 ### Stuff I claim to know
 
