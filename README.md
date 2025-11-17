@@ -14,9 +14,19 @@
 
 ### Education
 - san jose state university
-  - computer science: data structures and algorithms, object-oriented programming, programming in c
-  - math: discrete math, stats and probability 1, linear algebra,  calculus 1–2
-  - other: mapping the world with GIS, community nutrition, environmental nutrition
+  - computer science
+    - data structures and algorithms
+    - object-oriented programming
+    - programming in c
+  - math
+    - discrete math
+    - applied statistics and probability 1
+    - linear algebra
+    - calculus 1–2
+  - other
+    - mapping the world with GIS
+    - community nutrition
+    - environmental nutrition
 - other colleges
   - intro to c++ (diablo valley college)
   - intro to cloud computing (citrus college)
