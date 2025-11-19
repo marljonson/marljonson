@@ -18,6 +18,9 @@
     - data structures and algorithms
     - object-oriented programming
     - programming in c
+    - intro to computer systems
+    - intro to database management systems
+    - formal languages and computability
   - math
     - discrete math
     - applied statistics and probability 1
