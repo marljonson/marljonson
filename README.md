@@ -2,8 +2,8 @@
 ### About Me
 
 - **name:** Marl
-- **interests:** digital products, graphic design, music, entertainment, public sector technology
-- **technical interests:** computer science, statistics, cloud computing, machine learning, GIS 
+- **technical interests:** computer science, statistics, cloud computing, machine learning, GIS
+- **other interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
 - product manager intern [@sfbart](https://github.com/sfbart)
@@ -23,9 +23,8 @@
     - formal languages and computability
   - math
     - discrete math
-    - applied statistics and probability 1
+    - applied statistics and probability
     - linear algebra
-    - calculus 1–2
   - other
     - mapping the world with GIS
     - community nutrition
