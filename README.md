@@ -1,19 +1,19 @@
 
 ### About Me
 
-- **name:** Marl
-- **technical interests:** computer science, statistics, cloud computing, machine learning, GIS
-- **other interests:** digital products, public sector technology, graphic design, music
+- **Name:** Marl
+- **Technical interests:** computer science, statistics, cloud computing, machine learning, GIS
+- **Other interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
-- product manager intern [@sfbart](https://github.com/sfbart)
-- product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
-- web dev ambassador [@rcc-sjsu](https://github.com/rcc-sjsu)
-- cybersecurity student [@codepath](https://github.com/codepath)
-- former crew at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
+- Product manager intern [@sfbart](https://github.com/sfbart)
+- Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
+- Web dev ambassador [@rcc-sjsu](https://github.com/rcc-sjsu)
+- Cybersecurity student [@codepath](https://github.com/codepath)
+- Former crew at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
-- san jose state university
+- San Jose State University
   - computer science
     - data structures and algorithms
     - object-oriented programming
@@ -45,6 +45,6 @@
 
 ### Stuff I claim to know
 
-- **languages:** Java, Python, C, HTML/CSS, Bash
-- **frameworks/libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
-- **web/design:** Figma, Canva, Google Workspace, Microsoft 365
+- **Languages:** Java, Python, C, HTML/CSS, Bash
+- **Frameworks & Libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
+- **Design & Productivity:** Figma, Canva, Google Workspace, Microsoft 365
