@@ -13,11 +13,11 @@
 - Former crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
-- San Jose State University
+- **San Jose State University**
   - Graduation: May 2028
   - Coursework: Data Structures and Algorithms, Object-Oriented Design, Programming in C, Linear Algebra, Discrete Mathematics
-  - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Technology Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
-- Alhambra Senior High School
+  - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
+- **Alhambra Senior High School**
   - Coursework: AP Computer Science Principles, AP Physics I: Algebra-Based, AP Biology, Calculus I
   - Organizations: Computer Science Club, Varsity Tennis, Service Club President
  
