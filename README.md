@@ -7,11 +7,14 @@
 
 ### Experience
 
+**Current**
 - Product manager intern [@sfbart](https://github.com/sfbart)
-- Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
-- Web dev ambassador [@rcc-sjsu](https://github.com/rcc-sjsu)
+- Front-end web developer [@rcc-sjsu](https://github.com/rcc-sjsu)
 - Cybersecurity student [@codepath](https://github.com/codepath)
-- Former crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
+
+**Former**
+- Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
+- Crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
 
