@@ -1,18 +1,19 @@
+## Click [here](https://github.com/marljonson/coursework) to view my computer science coursework!
 
 ### About Me
 
 - **Name:** Marl Jonson
 - **Technical interests:** computer science, statistics, geographic information science, cloud computing, machine learning
-- **Other interests:** digital products, public sector technology, graphic design, music
+- **Creative interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
 
-**Current**
+**Current experience**
 - Product manager intern [@sfbart](https://github.com/sfbart)
 - Front-end web developer [@rcc-sjsu](https://github.com/rcc-sjsu)
 - Cybersecurity student [@codepath](https://github.com/codepath)
 
-**Former**
+**Former experience**
 - Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
 - Crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
@@ -30,13 +31,9 @@
 ### Projects
 
 - [Store Ops Dashboard](https://github.com/marljonson/store-ops-dashboard)
-  - python, pandas, matplotlib, seaborn, jupyter notebook
 - [Performative Pop Shop](https://github.com/marljonson/pps-cs151-fall-2025)
-  - java, uml
 - [JavaFX Arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
-  - java, javafx
 - [Note Nooks](https://devpost.com/software/nooknotes)
-  - html/css, figma
 
 ### Stuff I claim to know
 
