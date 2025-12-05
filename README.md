@@ -1,7 +1,7 @@
 
 ### About Me
 
-- **Name:** Marl
+- **Name:** Marl Jonson
 - **Technical interests:** computer science, statistics, cloud computing, machine learning, GIS
 - **Other interests:** digital products, public sector technology, graphic design, music
 
@@ -10,37 +10,25 @@
 - Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
 - Web dev ambassador [@rcc-sjsu](https://github.com/rcc-sjsu)
 - Cybersecurity student [@codepath](https://github.com/codepath)
-- Former crew at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
+- Former crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
 - San Jose State University
-  - computer science
-    - data structures and algorithms
-    - object-oriented programming
-    - programming in c
-    - intro to computer systems
-    - intro to database management systems
-    - formal languages and computability
-  - math
-    - discrete math
-    - applied statistics and probability
-    - linear algebra
-  - other
-    - mapping the world with GIS
-    - community nutrition
-    - environmental nutrition
-- other colleges
-  - intro to c++ (diablo valley college)
-  - intro to cloud computing (citrus college)
+  - Graduation: May 2028
+  - Coursework: Data Structures and Algorithms, Object-Oriented Design, Programming in C, Linear Algebra, Discrete Mathematics
+  - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Technology Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
+- Alhambra Senior High School
+  - Coursework: AP Computer Science Principles, AP Physics I: Algebra-Based, AP Biology, Calculus I
+  - Organizations: Computer Science Club, Varsity Tennis, Service Club President
  
 ### Projects
-- [store ops dashboard](https://github.com/marljonson/store-ops-dashboard)
+- [Store Ops Dashboard](https://github.com/marljonson/store-ops-dashboard)
   - python, pandas, matplotlib, seaborn, jupyter notebook
-- [performative pop shop](https://github.com/marljonson/pps-cs151-fall-2025)
+- [Performative Pop Shop](https://github.com/marljonson/pps-cs151-fall-2025)
   - java, uml
-- [javafx arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
+- [JavaFX Arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
   - java, javafx
-- [note nooks](https://devpost.com/software/nooknotes)
+- [Note Nooks](https://devpost.com/software/nooknotes)
   - html/css, figma
 
 ### Stuff I claim to know
