@@ -2,10 +2,11 @@
 ### About Me
 
 - **Name:** Marl Jonson
-- **Technical interests:** computer science, statistics, cloud computing, machine learning, GIS
+- **Technical interests:** computer science, statistics, geographic information science, cloud computing, machine learning
 - **Other interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
+
 - Product manager intern [@sfbart](https://github.com/sfbart)
 - Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
 - Web dev ambassador [@rcc-sjsu](https://github.com/rcc-sjsu)
@@ -13,15 +14,18 @@
 - Former crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
-- **San Jose State University**
-  - Graduation: May 2028
-  - Coursework: Data Structures and Algorithms, Object-Oriented Design, Programming in C, Linear Algebra, Discrete Mathematics
-  - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
-- **Alhambra Senior High School**
-  - Coursework: AP Computer Science Principles, AP Physics I: Algebra-Based, AP Biology, Calculus I
-  - Organizations: Computer Science Club, Varsity Tennis, Service Club President
+
+**San Jose State University**
+- Graduation: May 2028
+- Coursework: Data Structures and Algorithms, Object-Oriented Design, Programming in C, Linear Algebra, Discrete Mathematics
+- Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
+
+**Alhambra Senior High School**
+- Coursework: AP Computer Science Principles, AP Physics I: Algebra-Based, AP Biology, Calculus I
+- Organizations: Computer Science Club, Varsity Tennis, Service Club President
  
 ### Projects
+
 - [Store Ops Dashboard](https://github.com/marljonson/store-ops-dashboard)
   - python, pandas, matplotlib, seaborn, jupyter notebook
 - [Performative Pop Shop](https://github.com/marljonson/pps-cs151-fall-2025)
