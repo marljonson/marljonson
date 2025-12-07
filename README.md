@@ -1,4 +1,4 @@
-## Click [here](https://github.com/marljonson/coursework) to view my computer science coursework!
+## Click [here](https://github.com/marljonson/coursework) to view my computer science coursework.
 
 ### About Me
 
@@ -35,7 +35,7 @@
 - [JavaFX Arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
 - [Note Nooks](https://devpost.com/software/nooknotes)
 
-### Stuff I claim to know
+### Skills
 
 - **Languages:** Java, Python, C, HTML/CSS, Bash
 - **Frameworks & Libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
