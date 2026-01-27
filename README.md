@@ -3,7 +3,7 @@
 ### About Me
 
 - **Name:** Marl Jonson
-- **Technical interests:** computer science, statistics, geographic information science, cloud computing, machine learning
+- **Technical interests:** computer science, statistics, geographic information systems, cloud computing, machine learning
 - **Creative interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
@@ -23,10 +23,6 @@
 - Graduation: May 2027
 - Coursework: Data Structures and Algorithms, Object-Oriented Design, Processing Big Data, Intro to Database Management Systems
 - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
-
-**Alhambra Senior High School**
-- Coursework: AP Computer Science Principles, AP Physics I: Algebra-Based, AP Biology, Calculus I
-- Organizations: Computer Science Club, Varsity Tennis, Service Club President
  
 ### Projects
 
