@@ -20,8 +20,8 @@
 ### Education
 
 **San Jose State University**
-- Graduation: May 2028
-- Coursework: Data Structures and Algorithms, Object-Oriented Design, Programming in C, Linear Algebra, Discrete Mathematics
+- Graduation: May 2027
+- Coursework: Data Structures and Algorithms, Object-Oriented Design, Processing Big Data, Intro to Database Management Systems
 - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
 
 **Alhambra Senior High School**
