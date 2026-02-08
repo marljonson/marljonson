@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab7a7a&height=100&section=header" alt="header"/> 
+
 ### About Me
 
 - **Name:** Marl Jonson (`marljonson`)
@@ -5,6 +7,10 @@
 - **Creative interests:** digital products, public sector technology, graphic design, music
 
 ### Experience
+
+**Learning**
+
+[![Learning](https://skillicons.dev/icons?i=azure,redhat,java,mysql,react)](https://skillicons.dev)
 
 **Current experience**
 - Product manager intern [@sfbart](https://github.com/sfbart)
@@ -21,9 +27,8 @@
 ### Education
 
 - **School:** San Jose State University
-- Graduation: May 2027
-- Coursework: Data Structures and Algorithms, Object-Oriented Design, Introduction to Computer Systems, Processing Big Data, Database Management Systems, Artificial Intelligence
-- Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
+- **Coursework:** Data Structures and Algorithms, Object-Oriented Design, Introduction to Computer Systems, Processing Big Data, Database Management Systems, Artificial Intelligence
+- **Organizations:** Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
  
 ### Projects
 
