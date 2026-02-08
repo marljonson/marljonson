@@ -1,6 +1,6 @@
 ### About Me
 
-- **Name:** Marl Jonson
+- **Name:** Marl Jonson (`marljonson`)
 - **Technical interests:** computer science, geographic information science, statistics, cloud computing, machine learning
 - **Creative interests:** digital products, public sector technology, graphic design, music
 
@@ -11,13 +11,16 @@
 - Front-end web developer [@rcc-sjsu](https://github.com/rcc-sjsu)
 - Cybersecurity and web development student [@codepath](https://github.com/codepath)
 
+**Certifications**
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
+
 **Former experience**
 - Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
 - Crew member at [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
 
 ### Education
 
-**San Jose State University**
+- **School:** San Jose State University
 - Graduation: May 2027
 - Coursework: Data Structures and Algorithms, Object-Oriented Design, Introduction to Computer Systems, Processing Big Data, Database Management Systems, Artificial Intelligence
 - Organizations: Apple Next-Gen Innovators Program, [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
