@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab7a7a&height=100&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc9c9f&height=100&section=header" alt="header"/> 
 
 ### About Me
 
@@ -18,6 +18,7 @@
 - Cybersecurity and web development student [@codepath](https://github.com/codepath)
 
 **Certifications**
+- Microsoft Certified: Azure Data Fundamentals (DP-900) — planned March 2026
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
 
 **Former experience**
