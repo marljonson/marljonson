@@ -18,8 +18,9 @@
 - Cybersecurity and web development student [@codepath](https://github.com/codepath)
 
 **Certifications**
-- Microsoft Certified: Azure Data Fundamentals (DP-900) — planned March 2026
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
+- Microsoft Certified: Azure Data Fundamentals (DP-900) — planned March 2026
+- Microsoft 365 Certified: Fundamentals (MS-900) — planned March 2026
 
 **Former experience**
 - Product strategy consultant [@Extern (YC W17)](https://www.extern.com/)
