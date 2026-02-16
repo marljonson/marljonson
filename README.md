@@ -1,33 +1,49 @@
-## About Me
-### Name
-Marl Jonson (`marljonson`)
-### Interests
-`computer science` `cloud computing` `statistics` `political geography` `transportation`
-### Experience
-[![Learning](https://skillicons.dev/icons?i=azure,redhat,java,mysql,react)](https://skillicons.dev)
-- Product management and transit innovation intern — [@sfbart](https://github.com/sfbart)
-- Full-stack web developer — [@rcc-sjsu](https://github.com/rcc-sjsu)
-- Cybersecurity and web development student — [CodePath](https://github.com/codepath)
-- Product strategy consultant — [Extern (YC W17)](https://www.extern.com/)
-- Theater crew member — [Veranda Luxe Cinema](https://web.cinemawest.com/sites/Veranda-Luxe-%26-IMAX/1501)
-### Certifications
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
-### Education
-- San Jose State University (2024–27)
-### Coursework
-`Data Structures and Algorithms` `Object-Oriented Design` `Computer Systems` `Processing Big Data` `Database Management Systems` `Artificial Intelligence`
-### Organizations
-`Apple Next-Gen Innovators Program` [Network Engineering Tech Society](https://www.sjsunets.org/), [Cyber Intelligence & Security Club](https://ischoolgroups.sjsu.edu/cisclub/)
- 
-### Projects
+## About me
+- Name: `Marl Jonson` `marljonson`
+- Interests: `computer science` `transportation` `cloud computing` `statistics` `political geography`
 
-- [Store Ops Dashboard](https://github.com/marljonson/store-ops-dashboard)
-- [Performative Pop Shop](https://github.com/marljonson/pps-cs151-fall-2025)
-- [JavaFX Arcade](https://github.com/marljonson/FXcade-CS151-Fall-2025)
-- [Note Nooks](https://devpost.com/software/nooknotes)
+### Experience
+- [`San Francisco Bay Area Rapid Transit:`](https://www.bart.gov/about/jobs/training) innovation project intern
+- [`SJSU Responsible Computing Club:`](https://www.rccsjsu.com/) full-stack web developer
+- [`CodePath:`](https://www.codepath.org/) cybersecurity and web development student
+- [`Extern (YC W17):`](https://www.extern.com/) product strategy consultant
+
+### Organizations:
+- `Apple Next-Gen Innovators Program`
+- [`Network Engineering Technology Society`](https://www.sjsunets.org/)
+- [`Cyber Intelligence & Security Club`](https://ischoolgroups.sjsu.edu/cisclub/)
+
+### Projects
+- [`Cloud Transit Pipeline`](https://github.com/marljonson/cloud-transit-pipeline) `Microsoft Azure` `Java` `Spring Boot` `Kafka` `Docker` `SLF4J` `Apache Log4j 2` `GTFS`
+- [`Store Ops Dashboard`](https://github.com/marljonson/store-ops-dashboard) `Python` `Jupyter Notebook`
+- [`Performative Pop Shop`](https://github.com/marljonson/pps-cs151-fall-2025) `Java`
+- [`JavaFX Arcade`](https://github.com/marljonson/FXcade-CS151-Fall-2025) `Java` `Maven`
+- [`Note Nooks`](https://devpost.com/software/nooknotes) `HTML` `CSS`
+- [`Draftly`](https://devpost.com/software/draftly) `TypeScript` `HTML` `CSS`
+
+### Courses taken
+- `CS 47: Introduction to Computer Systems`
+- `CS 49C: Programming in C`
+- `CS 146: Data Structures & Algorithms`
+- `CS 151: Object-Oriented Design`
+- `CS 131: Processing Big Data`
+- `CS 156: Introduction to Artificial Intelligence`
+- `CS 157A: Introduction to Database Management Systems`
+- `GEOG 107: Mapping the World`
 
 ### Skills
+- Languages: `Java` `Python` `C` `Bash`
+- Frameworks and libraries: `React` `Node.js` `Spring Boot` `Jupyter Notebook` `Kafka` `Apache Log4j 2` `Jupyter Notebook`
+- Design and productivity: `Microsoft 365` `Google Workspace` `Figma` `Canva`
 
-- **Languages:** Java, Python, C, TypeScript, HTML/CSS, Bash
-- **Frameworks & Libraries:** React, Node.js, Visual Studio Code, Jupyter Notebook
-- **Design & Productivity:** Figma, Canva, Google Workspace, Microsoft 365
+### Certifications
+- [`Microsoft Certified: Azure Fundamentals (AZ-900)`](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
+- [`Microsoft 365 Certified: Fundamentals (MS-900)`](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification)
+- [`Microsoft Certified: Azure Data Fundamentals (DP-900)`](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+
+### Favorite songs
+- <code>Chvrches: [The Mother We Share](https://www.youtube.com/watch?v=_mTRvJ9fugM)</code>
+- <code>Haim: [If I Could Change Your Mind](https://www.youtube.com/watch?v=Ljg6g7BAdQo)</code>
+- <code>Japanese Breakfast: [Be Sweet](https://www.youtube.com/watch?v=2ZfcZEIo6Bw)</code>
+- <code>Jai Paul: [Crush](https://www.youtube.com/watch?v=KvHYFl0kqIk)</code>
+- <code>Bjork: [Frosti](https://www.youtube.com/watch?v=8S94Bmk8KRA)</code>
