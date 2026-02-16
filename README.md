@@ -1,24 +1,24 @@
-## About me
-- Name: `Marl Jonson` `marljonson`
-- Interests: `computer science` `transportation` `cloud computing` `statistics` `political geography`
+### Me
+- Name: `Marl Jonson` `github: marljonson` `linkedin: marl-jonson`
+- Interests: `software engineering` `cloud computing` `transportation` `statistics` `geographic information systems`
 
 ### Experience
-- [`San Francisco Bay Area Rapid Transit:`](https://www.bart.gov/about/jobs/training) innovation project intern
-- [`SJSU Responsible Computing Club:`](https://www.rccsjsu.com/) full-stack web developer
-- [`CodePath:`](https://www.codepath.org/) cybersecurity and web development student
-- [`Extern (YC W17):`](https://www.extern.com/) product strategy consultant
+- [`San Francisco Bay Area Rapid Transit`](https://www.bart.gov/about/jobs/training) innovation project intern
+- [`SJSU Responsible Computing Club`](https://www.rccsjsu.com/) full-stack web developer
+- [`CodePath`](https://www.codepath.org/) cybersecurity and web development student
+- [`Extern (YC W17)`](https://www.extern.com/) product strategy consultant
+- [`NASA L'SPACE Program`](https://www.lspace.asu.edu/) technology proposal fellow
 
-### Organizations:
-- `Apple Next-Gen Innovators Program`
-- [`Network Engineering Technology Society`](https://www.sjsunets.org/)
-- [`Cyber Intelligence & Security Club`](https://ischoolgroups.sjsu.edu/cisclub/)
+### Organizations
+- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
+- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
 
 ### Projects
 - [`Cloud Transit Pipeline`](https://github.com/marljonson/cloud-transit-pipeline) `Microsoft Azure` `Java` `Spring Boot` `Kafka` `Docker` `SLF4J` `Apache Log4j 2` `GTFS`
 - [`Store Ops Dashboard`](https://github.com/marljonson/store-ops-dashboard) `Python` `Jupyter Notebook`
 - [`Performative Pop Shop`](https://github.com/marljonson/pps-cs151-fall-2025) `Java`
 - [`JavaFX Arcade`](https://github.com/marljonson/FXcade-CS151-Fall-2025) `Java` `Maven`
-- [`Note Nooks`](https://devpost.com/software/nooknotes) `HTML` `CSS`
+- [`Note Nooks`](https://devpost.com/software/nooknotes) `HTML` `CSS` `Figma`
 - [`Draftly`](https://devpost.com/software/draftly) `TypeScript` `HTML` `CSS`
 
 ### Courses taken
