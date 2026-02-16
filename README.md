@@ -2,16 +2,16 @@
 - Name: `Marl Jonson` `github: marljonson` `linkedin: marl-jonson`
 - Interests: `software engineering` `cloud computing` `transportation` `statistics` `geographic information systems`
 
+### Organizations
+- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
+- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
+
 ### Experience
 - [`San Francisco Bay Area Rapid Transit`](https://www.bart.gov/about/jobs/training) innovation project intern
 - [`SJSU Responsible Computing Club`](https://www.rccsjsu.com/) full-stack web developer
 - [`CodePath`](https://www.codepath.org/) cybersecurity and web development student
 - [`Extern (YC W17)`](https://www.extern.com/) product strategy consultant
 - [`NASA L'SPACE Program`](https://www.lspace.asu.edu/) technology proposal fellow
-
-### Organizations
-- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
-- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
 
 ### Projects
 - [`Cloud Transit Pipeline`](https://github.com/marljonson/cloud-transit-pipeline) `Microsoft Azure` `Java` `Spring Boot` `Kafka` `Docker` `SLF4J` `Apache Log4j 2` `GTFS`
