@@ -7,10 +7,10 @@
 - [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
 
 ### Experience
-- [`San Francisco Bay Area Rapid Transit`](https://www.bart.gov/about/jobs/training) innovation project intern
+- [`San Francisco Bay Area Rapid Transit District`](https://www.bart.gov/about/jobs/training) innovation project intern
 - [`SJSU Responsible Computing Club`](https://www.rccsjsu.com/) full-stack web developer
 - [`CodePath`](https://www.codepath.org/) cybersecurity and web development student
-- [`Extern (YC W17)`](https://www.extern.com/) product strategy consultant
+- [`Extern`](https://www.extern.com/) product strategy consultant
 - [`NASA L'SPACE Program`](https://www.lspace.asu.edu/) technology proposal fellow
 
 ### Projects
