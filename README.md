@@ -2,10 +2,6 @@
 - Name: `Marl Jonson` `github: marljonson` `linkedin: marl-jonson`
 - Interests: `software engineering` `cloud computing` `transportation` `statistics` `geographic information systems`
 
-### Organizations
-- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
-- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
-
 ### Experience
 - [`San Francisco Bay Area Rapid Transit District`](https://www.bart.gov/about/jobs/training) innovation project intern
 - [`SJSU Responsible Computing Club`](https://www.rccsjsu.com/) full-stack web developer
@@ -24,22 +20,29 @@
 ### Courses taken
 - `CS 47: Introduction to Computer Systems`
 - `CS 49C: Programming in C`
-- `CS 146: Data Structures & Algorithms`
-- `CS 151: Object-Oriented Design`
 - `CS 131: Processing Big Data`
+- `CS 146: Data Structures and Algorithms`
+- `CS 151: Object-Oriented Design`
 - `CS 156: Introduction to Artificial Intelligence`
 - `CS 157A: Introduction to Database Management Systems`
+- `MATH 39: Linear Algebra I`
+- `MATH 42: Discrete Mathematics`
+- `MATH 161A: Applied Probability and Statistics I`
 - `GEOG 107: Mapping the World`
 
 ### Skills
-- Languages: `Java` `Python` `C` `Bash`
+- Languages: `Java` `Python` `C` `TypeScript` `Bash`
 - Frameworks and libraries: `React` `Node.js` `Spring Boot` `Jupyter Notebook` `Kafka` `Apache Log4j 2` `Jupyter Notebook`
 - Design and productivity: `Microsoft 365` `Google Workspace` `Figma` `Canva`
 
 ### Certifications
 - [`Microsoft Certified: Azure Fundamentals (AZ-900)`](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
-- [`Microsoft 365 Certified: Fundamentals (MS-900)`](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification)
-- [`Microsoft Certified: Azure Data Fundamentals (DP-900)`](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+- [`Microsoft 365 Certified: Fundamentals (MS-900)`](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification) (planned March 2026)
+- [`Microsoft Certified: Azure Data Fundamentals (DP-900)`](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification) (planned March 2026)
+
+### Organizations
+- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
+- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
 
 ### Favorite songs
 - <code>Chvrches: [The Mother We Share](https://www.youtube.com/watch?v=_mTRvJ9fugM)</code>
