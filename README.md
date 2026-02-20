@@ -1,6 +1,6 @@
 ### Me
 - Name: `Marl Jonson` `github: marljonson` `linkedin: marl-jonson`
-- Interests: `software engineering` `cloud computing` `transportation` `statistics` `geographic information systems`
+- Interests: `software engineering` `cloud computing` `public transportation` `statistics` `geographic information systems`
 
 ### Experience
 - [`San Francisco Bay Area Rapid Transit District`](https://www.bart.gov/about/jobs/training) innovation project intern
@@ -50,6 +50,6 @@
 - <code>Japanese Breakfast: [Be Sweet](https://www.youtube.com/watch?v=2ZfcZEIo6Bw)</code>
 - <code>Jai Paul: [Crush](https://www.youtube.com/watch?v=KvHYFl0kqIk)</code>
 - <code>Bjork: [Frosti](https://www.youtube.com/watch?v=8S94Bmk8KRA)</code>
-- <code>M.I.A.: [Amazon](https://www.youtube.com/watch?v=sSBHIuTix7M)</code>
-- <code>Azealia Banks: [Wallace](https://www.youtube.com/watch?v=5iZd-uO0z_I)</code>
 - <code>Massive Attack: [Risingson](https://www.youtube.com/watch?v=W6ldHDrQ_no)</code>
+- <code>Azealia Banks: [Wallace](https://www.youtube.com/watch?v=5iZd-uO0z_I)</code>
+- <code>M.I.A.: [Amazon](https://www.youtube.com/watch?v=sSBHIuTix7M)</code>
