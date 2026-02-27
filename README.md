@@ -1,13 +1,14 @@
-### Me
-- Name: `Marl Jonson` `github: marljonson` `linkedin: marl-jonson`
-- Interests: `software engineering` `cloud computing` `public transportation` `statistics` `geographic information systems`
+Hi, I'm Marl. I study computer science at San Jose State. I specialize in full-stack software applications, cloud solutions, and real-time data engineering that modernizes network infrastructure and improves high-throughput systems for enterprise and government ecosystems.
 
-### Experience
-- [`San Francisco Bay Area Rapid Transit District`](https://www.bart.gov/about/jobs/training) innovation project intern
-- [`SJSU Responsible Computing Club`](https://www.rccsjsu.com/) full-stack web developer
-- [`CodePath`](https://www.codepath.org/) cybersecurity and web development student
-- [`Extern`](https://www.extern.com/) product strategy consultant
-- [`NASA L'SPACE Program`](https://www.lspace.asu.edu/) technology proposal fellow
+## Experience
+### San Francisco Bay Area Rapid Transit District — Innovation Project Intern
+- `Microsoft 365` `Scratch`
+### SJSU Responsible Computing Club — Software Engineering Ambassador
+- `React` `TypeScript` `Node.js` `Figma` `Jira`
+### CodePath — Cybersecurity Fellow
+- `Bash` `Python`
+### Extern — Product Consultant
+### NASA L'SPACE Program — NPWEE Fellow
 
 ### Projects
 - [`Cloud Transit Pipeline`](https://github.com/marljonson/cloud-transit-pipeline) `Microsoft Azure` `Java` `Spring Boot` `Kafka` `Docker` `SLF4J` `Apache Log4j 2` `GTFS`
