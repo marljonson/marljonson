@@ -1,49 +1,16 @@
-Hi, I'm Marl. I study computer science at San Jose State. I specialize in full-stack software applications, cloud solutions, and real-time data engineering that modernizes network infrastructure and improves high-throughput systems for enterprise and government ecosystems.
+Hi, this is Marl. I am a computer science major and perpetual learner! I enjoy solving programming problems, designing enterprise full-stack software, and defining cloud solutions within the Microsoft ecosystem and beyond. Fan of popular music and California geography.
 
-## Experience
-### San Francisco Bay Area Rapid Transit District — Innovation Project Intern
-- `Microsoft 365` `Scratch`
-### SJSU Responsible Computing Club — Software Engineering Ambassador
-- `React` `TypeScript` `Node.js` `Figma` `Jira`
-### CodePath — Cybersecurity Fellow
-- `Bash` `Python`
-### Extern — Product Consultant
-### NASA L'SPACE Program — NPWEE Fellow
-
-### Projects
-- [`Cloud Transit Pipeline`](https://github.com/marljonson/cloud-transit-pipeline) `Microsoft Azure` `Java` `Spring Boot` `Kafka` `Docker` `SLF4J` `Apache Log4j 2` `GTFS`
-- [`Store Ops Dashboard`](https://github.com/marljonson/store-ops-dashboard) `Python` `Jupyter Notebook`
-- [`Performative Pop Shop`](https://github.com/marljonson/pps-cs151-fall-2025) `Java`
-- [`JavaFX Arcade`](https://github.com/marljonson/FXcade-CS151-Fall-2025) `Java` `Maven`
-- [`Note Nooks`](https://devpost.com/software/nooknotes) `HTML` `CSS` `Figma`
-- [`Draftly`](https://devpost.com/software/draftly) `TypeScript` `HTML` `CSS`
-
-### Courses taken
-- `CS 47: Introduction to Computer Systems`
-- `CS 49C: Programming in C`
-- `CS 131: Processing Big Data`
-- `CS 146: Data Structures and Algorithms`
-- `CS 151: Object-Oriented Design`
-- `CS 156: Introduction to Artificial Intelligence`
-- `CS 157A: Introduction to Database Management Systems`
-- `MATH 39: Linear Algebra I`
-- `MATH 42: Discrete Mathematics`
-- `MATH 161A: Applied Probability and Statistics I`
-- `GEOG 107: Mapping the World`
-
-### Skills
-- Languages: `Java` `Python` `C` `TypeScript` `Bash`
-- Frameworks and libraries: `React` `Node.js` `Spring Boot` `Jupyter Notebook` `Kafka` `Apache Log4j 2` `Jupyter Notebook`
-- Design and productivity: `Microsoft 365` `Google Workspace` `Figma` `Canva`
+### Paid work
+- `Information Technology Intern` `Nevada National Security Site` `North Las Vegas, NV` `☢️`
+- `Product Manager Intern` `San Francisco Bay Area Rapid Transit District` `Oakland, CA` `🚄`
+- `Crew Member` `Veranda Luxe Cinema` `Concord, CA` `🍿`
 
 ### Certifications
-- [`Microsoft Certified: Azure Fundamentals (AZ-900)`](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc)
-- [`Microsoft 365 Certified: Fundamentals (MS-900)`](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals/?practice-assessment-type=certification) (planned March 2026)
-- [`Microsoft Certified: Azure Data Fundamentals (DP-900)`](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification) (planned March 2026)
-
-### Organizations
-- [`American Public Transportation Association`](https://www.apta.com/) `2026–present`
-- [`ACM SIGGRAPH (Computer Graphics and Interactive Techniques)`](https://www.siggraph.org/) `2025–present`
+- [`AZ-900`](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc) `Microsoft Certified: Azure Fundamentals` `☁️`
+- [`DP-900`](https://learn.microsoft.com/en-us/users/marl/credentials/c421ce3b79ac747) `Microsoft Certified: Azure Data Fundamentals` `💾`
+- [`MS-900`](https://learn.microsoft.com/en-us/users/marl/credentials/cc0382ab2ab88fc5) `Microsoft 365 Certified: Fundamentals` `📊`
+- `AI-200` `Microsoft Certified: Azure AI Cloud Developer Associate` `🤖` `coming soon...`
+- `CLF-C02` `AWS Certified Cloud Practitioner` `☁️` `coming soon...`
 
 ### Favorite songs
 - <code>Chvrches: [The Mother We Share](https://www.youtube.com/watch?v=_mTRvJ9fugM)</code>
