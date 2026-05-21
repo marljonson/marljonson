@@ -1,4 +1,4 @@
-Hi, this is Marl. I am a computer science major and perpetual learner! I enjoy solving programming problems, designing enterprise full-stack software, and defining cloud solutions within the Microsoft ecosystem and beyond. Fan of popular music and California geography.
+Hi, this is Marl. I am a computer science major and perpetual learner! I enjoy solving programming problems, designing enterprise full-stack software, and defining cloud solutions within the Microsoft ecosystem and beyond. Fan of pop music and frozen yogurt.
 
 ### Paid work
 - `Software Engineer Intern` `Nevada National Security Sites` `North Las Vegas, NV` `☢️`
