@@ -1,11 +1,10 @@
-Hi, this is Marl. I am a computer science major and perpetual learner! I enjoy solving programming problems, designing enterprise full-stack software, and defining cloud solutions within the Microsoft ecosystem and beyond. Fan of pop music and frozen yogurt.
-
-### Paid work
-- `Software Engineer Intern` `Nevada National Security Sites` `North Las Vegas, NV` `☢️`
-- `Product Manager Intern` `San Francisco Bay Area Rapid Transit District` `Oakland, CA` `🚄`
-- `Crew Member` `Veranda Luxe Cinema` `Concord, CA` `🍿`
-
-### Certifications
+# Marl Jonson
+### Education: 
+- San Jose State University
+- Bachelor of Science in Computer Science (2024–27)
+### Primary stack
+- C#, .NET 10, Microsoft SQL Server, Blazor, Playwright
+- ### Certifications
 - [`AZ-900`](https://learn.microsoft.com/en-us/users/marl/credentials/d5b5663f3963fadc) `Microsoft Certified: Azure Fundamentals` `☁️`
 - [`DP-900`](https://learn.microsoft.com/en-us/users/marl/credentials/c421ce3b79ac747) `Microsoft Certified: Azure Data Fundamentals` `💾`
 - [`MS-900`](https://learn.microsoft.com/en-us/users/marl/credentials/cc0382ab2ab88fc5) `Microsoft 365 Certified: Fundamentals` `📊`
