@@ -1,3 +1,5 @@
+<img width="100%" src="./banner.svg">
+
 # Marl Jonson
 ### Education: 
 - San Jose State University
