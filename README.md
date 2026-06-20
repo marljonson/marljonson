@@ -1,4 +1,4 @@
-<img width="100%" src="./banner.svg">
+![](./banner.svg)
 
 ### 👨‍💻
 - software engineer intern, [`nevada national security sites`](https://nnss.gov/)
@@ -20,4 +20,4 @@
 - [`AI-200`](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/?practice-assessment-type=certification) `Azure AI Cloud Developer Associate` `🤖` `coming soon...`
 
 <br>
-<img width="100%" src="./banner.svg">
+![](./banner.svg)
