@@ -6,8 +6,8 @@
 - software engineer & program manager ambassador, [`sjsu responsible computing club`](https://rcc-sjsu.vercel.app/)
 
 ### 🎓
-- san jose state university: computer science, b.s.
-- `SWE` `OS` `architecture` `DSA` `object-oriented design` `DBMS` `networks`
+- san jose state university: [computer science, b.s.](https://catalog.sjsu.edu/preview_program.php?catoid=15&poid=9497)
+- `SWE` `OS` `architecture` `DSA` `object-oriented design` `databases` `networks`
 
 ### 💻
 - `.NET 10` `C#` `SQL Server` `Blazor` `Playwright` `Visual Studio`
