@@ -8,6 +8,7 @@
 #### Work 🧑‍💻
 - Current intern (software engineer) at the [Nevada National Security Sites](https://nnss.gov/)
 - Previous intern (product manager) at the [San Francisco Bay Area Rapid Transit District](https://www.bart.gov/)
+- Previous crew member at the [movie theater](https://web.cinemawest.com/)
 
 <!--
 ### 📄
