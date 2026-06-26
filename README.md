@@ -2,8 +2,8 @@
 
 ### Marl Jonson 🎊
 - Software engineer with a (pending) computer science degree from San Jose State University
-- Focused on enterprise app modernization, AI, and cloud development
-- Interested in cloud platform engineering
+- Focused on enterprise app modernization, AI, cloud platform development
+- Interested in cloud migration, distributed systems
 
 #### Work 🧑‍💻
 - Current intern (software engineer) at the [Nevada National Security Sites](https://nnss.gov/)
